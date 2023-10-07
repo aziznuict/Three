@@ -1,0 +1,286 @@
+section {
+    padding: 120px 0;
+}
+.header-section{
+	background:#FB9821;
+}
+.header-top {
+	padding: 12px 0;
+}
+
+.site-info {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.site-info li a {
+	color: #ffffff;
+}
+.site-info li {
+	float: left;
+	margin-right: 20px;
+	color: #ffffff;
+	font-size: 13px;
+}
+
+.site-info li i {
+	color: #42b061;
+	font-size: 16px;
+	margin-right: 4px;
+}
+.site-info li select {
+	border: none;
+}
+
+/*  social media  */
+
+.social-media {
+	display: inline-block;
+    transform: translateY(3px);
+}
+.social-media ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.social-media ul li {
+	float:left;
+}
+.social-media ul li a {
+	width: 16px;
+	height: 16px;
+	background-color:;
+	color: #f8f8f8;
+	margin: 0 2px;
+	display: block;
+	text-align: center;
+	border-radius: 1px;
+}
+
+.sign-register {
+	display: inline-block;
+	margin-right: 45px;
+}
+.header-right {
+    float: right;
+}
+/*  social media  */
+
+.social-media {
+	display: inline-block;
+    transform: translateY(3px);
+}
+.social-media ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.social-media ul li {
+	float:left;
+}
+.social-media ul li a {
+	width: 16px;
+	height: 16px;
+	color: #f8f8f8;
+	margin: 0 2px;
+	display: block;
+	text-align: center;
+	border-radius: 1px;
+}
+
+.sign-register {
+	display: inline-block;
+	margin-right: 45px;
+}
+.header-right {
+    float: right;
+}
+
+.logo{
+	
+}
+.logo h2{
+	color:#FB9821;
+	text-transform:uppercase;
+	font-size:32px;
+	font-weight:700;
+}
+
+.menu{}
+.menu ul{}
+.menu ul li {
+    list-style: none;
+    float: left;
+    text-transform: capitalize;
+    margin: 0 10px;
+    font-weight: 500;
+}
+.menu ul li a {
+    text-decoration: none;
+    color: #404040;
+    font-size: 16px;
+    font-weight: 700;
+}
+.menu ul li a:hover{}
+
+img{
+	width:100%;
+}
+.welcome-area{
+	background:;
+}
+.welcome {
+    margin-top: 35px;
+}
+.welcome h2 {
+    text-align: left;
+    color: #FB9821;
+    font-size: 30px;
+    font-weight: 700;
+}
+.welcome p {
+    text-align: left;
+    color: #818181;
+    width: 670px;
+    font-size: 16px;
+    line-height: 26px;
+}
+.service-area{
+	background:#EEEEEE;
+}
+.service h4 {
+    text-align: left;
+    color: #EC9D3D;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.service p {
+    text-align: left;
+    padding: 0 20px;
+    color: #818181;
+    font-size: 16px;
+    line-height: 26px;
+}
+.counter-area{
+	background:#FB9821;
+}
+.counter h4 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 700;
+}
+.counter p {
+    text-align: center;
+    padding: 0 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.single-blog {
+	
+}
+.single-blog h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:500;
+    text-transform: uppercase;
+    color: #343434;
+}
+.single-blog p {
+    color: #999999;
+    font-weight: 400;
+    line-height: 24px;
+    height: 65px;
+    border-bottom: 1px solid #E5E5E5;
+}
+.blog-image{position:relative;}
+.blog-image img{
+	width:100%;
+}
+.blog .custom-btn{
+	margin-left:15px;
+}
+.blog-icon {
+    position: absolute;
+    content: "";
+    color: #fff;
+    background: #FB9821;
+    width: 40px;
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    left: -5%;
+    bottom: 5%;
+}
+.blog-content {
+    text-align: left;
+    padding: 15px 5px;
+}
+.blog-content i {
+    color:#95E1D4;
+}
+.blog-content span{
+    color:#999999;
+}
+
+.widget-left {
+	float:left;
+	margin-right:20px;
+}
+.widget-left img{
+	width:120px;
+	height:80px;
+}
+.widget-right h4 {
+    font-size: 16px;
+    line-height: 24px;
+    color: #808080;
+    margin-top: -5px;
+}
+.widget-bottom-element {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.insta-img img{
+	width:100px;
+	height:80px;
+}
+.insta-img {
+    float: left;
+    margin: 0px 2.5px 2.5px 0px;
+}
+.footer-top{
+	background:#212331;
+}
+.footer-widget {
+    margin-bottom: 25px;
+}
+.footer-widget h2 {
+    color:#FB9821;
+	text-transform:uppercase;
+	font-size:32px;
+	font-weight:700;
+}
+.footer-widget h4 {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FB9821;
+}
+.footer-widget p{
+	color:#808080;
+	line-height:26px;
+	}
+.footer {
+    background:#000000;
+    padding: 45px;
+}
+.footer span{color:#818181;}
+.footer p{
+	text-align:center;
+	color:#818181;
+}
